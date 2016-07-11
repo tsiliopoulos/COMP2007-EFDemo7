@@ -13,5 +13,9 @@ namespace COMP2007_EFDemo7
         {
 
         }
+        
+        protected void Move() {
+            // enemy move left, right, forward and back
+        }
     }
 }
